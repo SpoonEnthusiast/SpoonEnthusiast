@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1> Welcome to my Profile ❗ </h1>
 
-<!--
-**SpoonEnthusiast/SpoonEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I made this account to log in into games or websites via Github </p>
+<p> All of my work, including characters, is linked to this profile! If you see anything that i made without it, it's most likely stolen. </p>
 
-Here are some ideas to get you started:
+<h1> See me around? 🗯️ </h1>
+<p> Then feel free to interact with me! I'm always looking forward to chatting with people. </p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1> Short About me ❗   </h1>
+<p>  ☆🗨️ Nickname: Enthus </p> 
+<p>  ☆🗨️Pronouns: He/him </p>
+
+<p>  ☆🖥️Intrests: I like coding and PC building!  </p>
+
+# Thanks for stopping by!  Stay cool and have a nice day! 
+ 
+
+
