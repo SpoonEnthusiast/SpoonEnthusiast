@@ -2,7 +2,6 @@
 
 <p> There isn't much here, but i link all of my Characters and Models to this page!</p>
 <p> In turn, if you ever recognise something i created, but it isn't linked here, someone probably yanked it without my knowledge. Yikes! </p>
-<p> This is only here because people steal my stuff sometimes, not nice.</p>
 
 <h1 align="center"> About me </h1>
 <p align="center"><i>Answers for all your questions!</i> </p>
