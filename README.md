@@ -2,7 +2,7 @@
 <h1>Hello There!</h1>
 <h2>I'm SpoonEnthusiast!</h2>
 
-  <p> You may call me Enthus for Short </p>
+  <p> You may call me Enthus for short </p>
   <p> Everything i make is lined to this profile; Including my Characters, Artworks and Models!
     <P> If you see something i made but it isn't linked here, someone probably yanked it without me knowing. Yikes!</P>
 
