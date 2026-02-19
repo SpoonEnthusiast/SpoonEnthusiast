@@ -1,6 +1,6 @@
 # Hello! I'm SpoonEnthusiast 💿
 
-## You can call me Enthus or Sylver for short!
+## You can call me Enthus for short!
 
  <h1 align="center">About me </h1>
 
